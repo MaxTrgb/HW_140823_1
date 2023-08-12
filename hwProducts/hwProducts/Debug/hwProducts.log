@@ -1,0 +1,8 @@
+﻿  Cart.cpp
+D:\Study\14\hwProducts\hwProducts\Cart.cpp(19,29): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\14\hwProducts\hwProducts\Cart.cpp(30,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\14\hwProducts\hwProducts\Cart.cpp(38,29): warning C4018: <: несоответствие типов со знаком и без знака
+  Product.cpp
+  hwProducts.cpp
+  Создание кода...
+  hwProducts.vcxproj -> D:\Study\14\hwProducts\Debug\hwProducts.exe
